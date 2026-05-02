@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  threatlens:
+    image: threatlens:latest
+    container_name: threatlens-app
+    # Commented out the build line because there will be no source code on the server, uses the loaded image
+    # build: .
+    restart: always
+    ports:
+      - "8080:8080"
+    volumes:
+      # Database persistence (Uses the ./data folder on the host machine)
+      - ./data:/app/data
+      # To read Suricata logs (Log directory on the host machine)
+      # If you are testing on Windows, you can comment this line out.
+      # OEL8 SELinux note: Try using :z instead of :ro if you encounter access errors.
+      - /var/log/suricata:/var/log/suricata:ro
+    environment:
+      - NODE_ENV=production
+      - PORT=8080
+      - EVE_LOG_PATH=/var/log/suricata/eve.json
