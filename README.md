@@ -70,16 +70,20 @@ https://threattlens.netlify.app/
 ## 📸 Screenshots
 
 **Threat Topology (Cyber Map)**
-<img width="602" height="338" alt="1" src="https://github.com/user-attachments/assets/8cb92fc0-ca00-42ad-8851-5433846ee9ca" />
+<img width="602" height="338" alt="1" src="https://github.com/user-attachments/assets/4addf6a2-40c1-4b10-b2bc-05e190161b22" />
+
 
 **Advanced Analytics Dashboard**
-<img width="602" height="338" alt="2" src="https://github.com/user-attachments/assets/fbd4f307-0808-4a44-84a6-fedca2290d6f" />
+<img width="602" height="338" alt="2" src="https://github.com/user-attachments/assets/7ead001a-0783-41e3-a3c6-2c68dc690a2a" />
+
 
 **Dashboard & System Status**
-<img width="602" height="338" alt="3" src="https://github.com/user-attachments/assets/0e5a82db-4293-4ccc-91e0-c46cdae71bd7" />
+<img width="602" height="338" alt="3" src="https://github.com/user-attachments/assets/a1158b4f-3367-43b1-b445-ac34de84eb9a" />
+
 
 **Rules Management**
-<img width="602" height="339" alt="4" src="https://github.com/user-attachments/assets/c5fbbdbe-e3c4-4e6a-a24f-39b7b8c73756" />
+<img width="602" height="339" alt="4" src="https://github.com/user-attachments/assets/a9ab59f5-4096-4c11-a6bb-6d596c1379a2" />
+
 
 
 ## 🛠️ Technology Stack
